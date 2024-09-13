@@ -18,7 +18,7 @@
 
 ---
 
-**Known Issues:***
+**Known Issues:**
 - Button colors are not properly applied on Mac OS due to differences in OS specific look and feel defaults.
 
 
