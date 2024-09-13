@@ -16,5 +16,9 @@
 2. Download the .JAR file contained in the /out directory ([link](https://github.com/tuxedocurly/Desktop_Connect_Four/tree/master/out))
 3. Double click on the downloaded .JAR to play Connect Four and enjoy!
 
+---
+
+**Known Issues:***
+- Button colors are not properly applied on Mac OS due to differences in OS specific look and feel defaults.
 
 
