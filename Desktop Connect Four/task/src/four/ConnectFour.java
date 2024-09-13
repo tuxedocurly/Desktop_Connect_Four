@@ -80,7 +80,7 @@ public class ConnectFour extends JFrame {
                 System.out.println("We have a winner!");
             }
         } else {
-            //JOptionPane.showMessageDialog(this, "This column is full. Choose another column.");
+            JOptionPane.showMessageDialog(this, "This column is full. Choose another column.");
         }
     }
 
